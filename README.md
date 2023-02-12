@@ -1,3 +1,12 @@
+##
+HOW TO RUN 
+1.clone your repository
+2.run "npm -i"
+3.ng serve
+
+##
+TUTORIAL
+
 Create an Account first 
 
 You can put an avatar just click (add profile picture)
@@ -20,10 +29,13 @@ and search your own user
 
 Then start Chating 
 
+
 ##
-if require 
+IF REQUIRED
 npm install 
 npm install uuid
 npm install firebase
+
+
 
 
