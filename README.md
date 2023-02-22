@@ -5,7 +5,8 @@ HOW TO RUN
 
 2.run "npm -i"
 
-3.npm serve
+3.npm start
+
 
 ##
 TUTORIAL
