@@ -5,7 +5,7 @@ HOW TO RUN
 
 2.run "npm -i"
 
-3.ng serve
+3.npm serve
 
 ##
 TUTORIAL
